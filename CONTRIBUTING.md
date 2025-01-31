@@ -23,7 +23,7 @@ up using the special invite links for
 and
 [contributors](https://chat.zulip.org/join/npzwak7vpmaknrhxthna3c7p/)
 to get a curated list of initial channel subscriptions.
-
+<!-- dwds -->
 To learn how to get started participating in the community, including [community
 norms](https://zulip.com/development-community/#community-norms) and [where to
 post](https://zulip.com/development-community/#where-do-i-send-my-message),
