@@ -1,4 +1,4 @@
-# Zulip overview
+# Zulip overview! 
 
 [Zulip](https://zulip.com) is an open-source team collaboration tool with unique
 [topic-based threading][why-zulip] that combines the best of email and chat to
@@ -30,6 +30,15 @@ Come find us on the [development community chat](https://zulip.com/development-c
 [rust-case-study]: https://zulip.com/case-studies/rust/
 [features]: https://zulip.com/features/
 
+### What Zulip is and its unique features
+
+- Development community statistics
+
+- Badges showing build status and code quality
+
+- Various ways to get involved (coding, non-code contributions, self-hosting, etc.)
+
+- Outreach programs and support options
 ## Getting started
 
 - **Contributing code**. Check out our [guide for new
